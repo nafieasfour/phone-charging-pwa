@@ -1,0 +1,12 @@
+body {
+  background: #181818;
+  color: #00ff9c;
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+#battery-level {
+  font-size: 20vw;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px #005f32;
+}
