@@ -6,8 +6,9 @@ body {
 }
 
 #battery-level {
-  font-size: 80vw;
+  font-size: 80vw !important;
   font-weight: bold;
   text-shadow: 2px 2px 8px #005f32;
 }
+
 
